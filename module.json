@@ -1,0 +1,17 @@
+{
+  "name": "swade-darkmode-css",
+  "title": "SWADE Darkmode",
+  "description": "<p>SWADE but nicer to ya eyes</p>",
+  "version": "1.0.0",
+  "author": "EddwardR",
+  "systems": ["swade"],
+  "scripts": [],
+  "esmodules": [],
+  "styles": ["swade_dark.css"],
+  "packs": [],
+  "url": "https://github.com/EddwardR/swade-darkmode-css",
+  "manifest": "https://github.com/EddwardR/swade-darkmode-css/master/module.json",
+  "download": "https://github.com/EddwardR/swade-darkmode-css/archive/master.zip",
+  "compatibleCoreVersion" : "0.6.2",
+  "minimumCoreVersion": "0.6.0"
+}
